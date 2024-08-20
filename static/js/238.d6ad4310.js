@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[238],{6238:function(e,t,n){n.r(t),n.d(t,{default:function(){return v}});var i=function(){var e=this,t=e._self._c;return t("div",[t("div",{staticStyle:{height:"100vh",overflow:"hidden",display:"flex",padding:"50px 0 0 200px"}},[t("div",{staticStyle:{"font-size":"40px"}},[e._v(" 404 找不到页面 "),t("router-link",{attrs:{to:"/"}},[e._v("返回首页")])],1)])])},u=[],l={name:"404"},r=l,s=n(1001),a=(0,s.Z)(r,i,u,!1,null,"79e517a0",null),v=a.exports}}]);
+//# sourceMappingURL=238.d6ad4310.js.map
